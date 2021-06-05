@@ -47,6 +47,6 @@ projects:
   #logo: /images/sections/projects/toha.png
   role: Owner / Developer
   #timeline: "Jun 2021 - Present"
-  repo: https://github.com/hossainemruz/toha
+  repo: https://github.com/MatS-git/Personal_Website
   summary: My personal HUGO website.
   tags: ["hobby","all"]

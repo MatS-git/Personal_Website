@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Sécheron SA
+    # url: "https://www.example.com"
+    location: Prague
+    # company overview
+    overview: Sécheron SA is focused on railway industry, and industrial segments manufacturing high power electric equipment.
+  positions:
+  - designation: Mechanical Design Engineer
+    start: "2019"
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and development of Traction Power Substations (TPSS).
+    - Internal development and SolidWorks Automation - Macros, Add-ins (VBA, C#).
+    - Use of SolidWorks both for 2D, 3D and use ERP system.
+
+- company:
+    name: EOLA s.r.o.
+  #  url: "https://www.preexample.com"
+    location: Olomouc
+    overview: Eola is an industrial integrator, that provides a comprehensive service associated with the supply of single-purpose machines. The focus of our competencies is in the field of industrial robots and machine vision systems.
+  positions:
+  - designation: Mechanical Design Engineer
+    start: "2017"
+    end:  "2018"
+    responsibilities:
+    - Design and development of single-purpose machines, industrial robots and machine vision.
+    - Use of SolidWorks both for 2D, 3D.
+
+- company:
+    name: ASTIP s.r.o.
+  #  url: "https://www.preexample.com"
+    location: Brno
+    overview: ASTIP is a maker and developer of UPS and Distribution Board systems.
+  positions:
+  - designation: Electrical Technician
+    start: "2016"
+    end: "2017"
+    responsibilities:
+    - Manufacturing of UPS and Distribution Board systems.
+
+- company:
+    name: Honeywell Aerospace Olomouc s.r.o.
+  #  url: "https://www.preexample.com"
+    location: Olomouc
+    overview: Honeywell Aerospace products and services are found on virtually every commercial, defense and space aircraft in the world.
+  positions:
+  - designation: Trainee
+    start: 2014
+    end: 2016
+    responsibilities:
+    - School internship. Lean Expert / Mechanical Design Engineer / Quality Control

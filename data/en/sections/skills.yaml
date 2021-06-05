@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+ # can add   url: "https://kubernetes.io/"
+skills:
+- name: SolidWorks
+#  icon: "/images/sections/skills/solidworks.png"
+  summary: "My preferred 3D CAD software in which I'm most proficient."
+
+- name: Python
+#  icon: "/images/sections/skills/.png"
+  summary: "I use python mainly to automate my tasks."
+
+- name: Visual Studio
+#  icon: "/images/sections/skills/.png"
+  summary: "My go to tool for programming anything associated with SolidWorks (VBA, C#)."
+
+- name: Windows
+  summary: "I built my first computer I was 6."
+
+- name: Linux
+  summary: "I use Linux for almost 4 years. These days I mostly use Kali  Linux for Cyber Security purposes."
+
+- name: Networking and CyberSecurity
+  summary: "I can create network infrastructure and I khow hwo to protect and attack one."

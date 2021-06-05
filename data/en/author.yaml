@@ -1,0 +1,19 @@
+# some information about you
+name: "Matěj Skácel"
+nickname: "Matěj"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+# image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "Loginisalreadytaken@gmail.com"
+#  phone: "+0123456789"
+#  whatsapp: "+420xxxxxx"
+
+# some summary about what you do
+summary:
+  - I am a Mechanical Engineer
+  - I am a Certified SolidWorks Professional
+  - Cyber Security is my hobby #love Ethical Hacking
+  - I a maker #like taking things apart
+  - I am a SolidWorks Champion

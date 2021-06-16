@@ -25,19 +25,19 @@ experiences:
     responsibilities:
     - Design and development of Traction Power Substations (TPSS).
     - Internal development and SolidWorks Automation - Macros, Add-ins (VBA, C#).
-    - Use of SolidWorks both for 2D, 3D and use ERP system.
+    - Use of SolidWorks both for 2D and 3D, also use of Oracle ERP system and Audros PLM system.
 
 - company:
     name: EOLA s.r.o.
   #  url: "https://www.preexample.com"
     location: Olomouc
-    overview: Eola is an industrial integrator, that provides a comprehensive service associated with the supply of single-purpose machines. The focus of our competencies is in the field of industrial robots and machine vision systems.
+    overview: Eola is an industrial integrator, that provides a comprehensive service associated with the supply of single-purpose machines. The focus of competencies is in the field of industrial robots and machine vision systems.
   positions:
   - designation: Mechanical Design Engineer
     start: "2017"
     end:  "2018"
     responsibilities:
-    - Design and development of single-purpose machines, industrial robots and machine vision.
+    - Design, development and assembly of single-purpose machines, industrial robots and machine vision.
     - Use of SolidWorks both for 2D, 3D.
 
 - company:
@@ -50,7 +50,7 @@ experiences:
     start: "2016"
     end: "2017"
     responsibilities:
-    - Manufacturing of UPS and Distribution Board systems.
+    - Manufacturing and testing of UPS and Distribution Board systems.
 
 - company:
     name: Honeywell Aerospace Olomouc s.r.o.
@@ -62,4 +62,4 @@ experiences:
     start: 2014
     end: 2016
     responsibilities:
-    - School internship. Lean Expert / Mechanical Design Engineer / Quality Control
+    - School internship. Lean Expert / Mechanical Design Engineer / Quality Control.

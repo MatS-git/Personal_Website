@@ -14,21 +14,21 @@ section:
 skills:
 - name: SolidWorks
 #  icon: "/images/sections/skills/solidworks.png"
-  summary: "My preferred 3D CAD software in which I'm most proficient."
+  summary: "My preferred 3D CAD software with more than 5 year of experince. I'm also CSWP and part of the SolidWorks Champion Program"
 
 - name: Python
 #  icon: "/images/sections/skills/.png"
-  summary: "I use python mainly to automate my tasks."
+  summary: "I use python mainly to automate my tasks and build cool stuff. You can find some of my code below."
 
-- name: Visual Studio
+- name: Visual Studio Code
 #  icon: "/images/sections/skills/.png"
   summary: "My go to tool for programming anything associated with SolidWorks (VBA, C#)."
 
 - name: Windows
-  summary: "I built my first computer I was 6."
+  summary: "I built my first computer I was 6 and I'm very familiar with the computer architecture and this operation system."
 
 - name: Linux
-  summary: "I use Linux for almost 4 years. These days I mostly use Kali  Linux for Cyber Security purposes."
+  summary: "I use Linux for almost 4 years. These days I mostly use Kali Linux for Cyber Security purposes and I run Apache server on my Pi."
 
 - name: Networking and CyberSecurity
-  summary: "I can create network infrastructure and I khow hwo to protect and attack one."
+  summary: "I am familiar with TCP/IP and OSI model, Routing and Switching. I knwo how to use Kali Linux and tools like nmap, Wireshark and Metasploit for Pen Testing and vulnerability assessment."

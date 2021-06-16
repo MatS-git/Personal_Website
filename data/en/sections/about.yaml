@@ -15,10 +15,10 @@ designation: Mechanical Engineer
 #  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-#resume: "files/MS_CV.pdf"
+resume: "files/MS_CV.pdf"
 
 # a summary about you
-summary: 'I am a Mechanical Design Engineer with passion for building, programming, creating things and last but not least for Cyber Security. This is my personal webside and below you can see some of my project and a little about me.' # for [Kubernetes](https://kubernetes.io/)
+summary: 'I am a Mechanical Design Engineer with passion for building, programming, creating things, IT and Cyber Security. This is my personal webside and below you can find some of my projects and a little about me.' # for [Kubernetes](https://kubernetes.io/)
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

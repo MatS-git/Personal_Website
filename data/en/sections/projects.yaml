@@ -51,7 +51,11 @@ projects:
   role: Owner / Developer
   #timeline: "Jun 2021 - Present"
   repo: https://github.com/MatS-git/Personal_Website
+<<<<<<< HEAD
   summary: My personal HUGO website you are looking on right now.
+=======
+  summary: My personal HUGO website.
+>>>>>>> d568b901c1c373ff7336bcbe441acae59977cfb0
   tags: ["hobby","all"]
 
 - name: SW Config and Description Change

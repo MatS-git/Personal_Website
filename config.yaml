@@ -2,7 +2,7 @@ baseURL: https://mskacel.netlify.app/
 
 languageCode: en-us
 title: "Matěj Skácel"
-theme: "toha"
+theme: "main"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
